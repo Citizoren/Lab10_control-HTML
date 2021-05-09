@@ -19,6 +19,7 @@ header, footer{
 
 .main{
     flex-direction: column;
+    justify-content: space-around;
     background-color: #000033;
 }
 
@@ -28,7 +29,6 @@ header{
     align-items: center;
     justify-content: space-between;
 }
-
 
 nav{
     margin-left: 20px;
